@@ -1,0 +1,7 @@
+.idea
+
+# 虚拟环境
+.venv
+
+# 日志
+bot.log
